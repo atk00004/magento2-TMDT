@@ -1,0 +1,5 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1621593282;s:6:"expire";i:1622457282;s:4:"tags";s:23:"626_BLOCK_HTML,626_MAGE";}
+a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:12:{s:44:"iKdTYo5XRnwPsGPSmkVbWUgabqNZNBE+dSA48tYQokc=";s:6:"sha256";s:44:"f1czZrb6/65RUiAoYRglGmoMPzRXfCjkzepGSi2LzPY=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"gVvaHwgVWLEnmHoJgesrONQCudhF++SFmbcZBoPj8CQ=";s:6:"sha256";s:44:"N1svUgN89Ca0BBi/K2p13KbD9RhWVPTaNXfY6LMqgxE=";s:6:"sha256";s:44:"ZiC/Ha75lfJ1tcUIpwlr5AKXiDrlfdcVo1MypvpyHGU=";s:6:"sha256";s:44:"4AI/vxelI2bwftkcPa6nlEy1r2B+RdL6sJyZZyvJm98=";s:6:"sha256";s:44:"n0QKCP/qpiieGbQewQn5SxIaGPtD7OriNQs0ELrFj1M=";s:6:"sha256";s:44:"zFiT46qo2jDDTBQKWdoz2zRtuVBGehp4AdNAPBAzWpc=";s:6:"sha256";s:44:"2PgjIeUbNmqIOj5vNGkJP+SSj3OstC0JZW1dgGOHZtI=";s:6:"sha256";s:44:"1DKmRVoy+qM6ZQoYqDbI7mIJ3Y/9XUGA/n8YNzqB5UY=";s:6:"sha256";}}}s:4:"html";s:76:"<p class="magento-version">
+    <strong>Magento</strong>
+    ver. 2.4.2</p>
+";}

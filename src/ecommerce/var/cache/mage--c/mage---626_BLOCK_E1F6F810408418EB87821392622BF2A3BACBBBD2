@@ -1,5 +1,5 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1621518941;s:6:"expire";i:1621605341;s:4:"tags";s:33:"626_CAT_P,626_BLOCK_HTML,626_MAGE";}
-a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:17:{s:44:"OoN3yK2jMoBao71UlUBXWY3UDvJEjvrYlMahMb0hL58=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"ycpWDQ4D5b1vetLQMFgf4VNiyIs4vXEehJvYIEybOwE=";s:6:"sha256";s:44:"GQTWu/B9u5cylToa4AeCIVhH2btU1B79Fq1j+87y2xQ=";s:6:"sha256";s:44:"Gs6YQPst+PWJA/sNK2HUTXFWh9Umxkr7thuUenTG9Ak=";s:6:"sha256";s:44:"Mtj09Jv1tGWJW2eUwgAsWU2tgsOpVMpAcFmP0rAOLY0=";s:6:"sha256";s:44:"VO2EWBXu27HCMo+CyHsN3hUgzy6vET+l9LkjH9gfjoA=";s:6:"sha256";s:44:"jHMAQUb6khLJ+C6ydSFoKCHCCihBfPTC9/IZ7zLtfqg=";s:6:"sha256";s:44:"9e26kVlpxiS35m6olggRLvFI+ZQIErJZ9YsORL7dsuI=";s:6:"sha256";s:44:"sefD+obj9WB8sfHSo2VsWEGYOVWnn9HrcY7PQHQg/Cs=";s:6:"sha256";s:44:"whXUK/s0kLzdlaxmWu8eqKBDznCXoOsZn3SEp4zOiKo=";s:6:"sha256";s:44:"yg3CYNkjkfshMVG+EC/JJal5FPjcTBOM0MfVsbsaAm0=";s:6:"sha256";s:44:"/SMyPkxuMTWdP46nqw8H6RTzQ3SngKRKSBcNMNC4BxI=";s:6:"sha256";s:44:"1ht5FJVW8Ae8FsYWRI715UoAdNqzT/ew78u40gJyAnA=";s:6:"sha256";s:44:"E9KsbBz05gvzU42fi4nKrYXBZ++WlRdSe8UZmqqz8pM=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"LVW61+Hsc4l354c5XInGHYGWR8LIUODsfuspqoqL2R4=";s:6:"sha256";s:44:"jqeOu9GUkYzlCRBTQ4bLnuONM5gvc4R1sgg+4YF3PLc=";s:6:"sha256";s:44:"6NOJG8NZ/olvbtwJkrxKqjizOofHQL8dx3u0kL0jFd0=";s:6:"sha256";s:44:"iOZaIcTOnJqkb6f8Z1zIL2mN0Qq8laNHeSe24/siw3c=";s:6:"sha256";s:44:"A4BTliJKrX4Ug/Rb4m/LYn1QavaKLnYTgoz5MLIfxTE=";s:6:"sha256";s:44:"jEXA3Jp7e78S+Kyee1roe6KFTu4y6EzXegNbDOU1EQI=";s:6:"sha256";s:44:"2UFZDNlw33ODJXptIKw9I+nN5+CVtjszv0Khf0paqks=";s:6:"sha256";s:44:"uUe57KsZMVYE5haA+GYqwNn/vDeB5IpsWjnIeycIZnc=";s:6:"sha256";s:44:"DmS0zUaLkybUvbf56re0Qgklo2I9LX48LnNgYL2wuDg=";s:6:"sha256";s:44:"iXs3IfOE9yYx4MJlq8t5w7xDEFq/ZW7agkSn88yuiu8=";s:6:"sha256";}}}s:4:"html";s:63651:"
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1621593287;s:6:"expire";i:1621679687;s:4:"tags";s:33:"626_CAT_P,626_BLOCK_HTML,626_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:16:{s:44:"SmunG+MxCghw7F53r9uFWb3PIQ4fOfTEwo/cIqi4U8w=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"6KyodjexYFfZ3tLEzGW1ks5zVcc9gp6Z3+FiSDJ/Xsc=";s:6:"sha256";s:44:"Gs6YQPst+PWJA/sNK2HUTXFWh9Umxkr7thuUenTG9Ak=";s:6:"sha256";s:44:"Mtj09Jv1tGWJW2eUwgAsWU2tgsOpVMpAcFmP0rAOLY0=";s:6:"sha256";s:44:"VO2EWBXu27HCMo+CyHsN3hUgzy6vET+l9LkjH9gfjoA=";s:6:"sha256";s:44:"jHMAQUb6khLJ+C6ydSFoKCHCCihBfPTC9/IZ7zLtfqg=";s:6:"sha256";s:44:"9e26kVlpxiS35m6olggRLvFI+ZQIErJZ9YsORL7dsuI=";s:6:"sha256";s:44:"sefD+obj9WB8sfHSo2VsWEGYOVWnn9HrcY7PQHQg/Cs=";s:6:"sha256";s:44:"whXUK/s0kLzdlaxmWu8eqKBDznCXoOsZn3SEp4zOiKo=";s:6:"sha256";s:44:"yg3CYNkjkfshMVG+EC/JJal5FPjcTBOM0MfVsbsaAm0=";s:6:"sha256";s:44:"/SMyPkxuMTWdP46nqw8H6RTzQ3SngKRKSBcNMNC4BxI=";s:6:"sha256";s:44:"1ht5FJVW8Ae8FsYWRI715UoAdNqzT/ew78u40gJyAnA=";s:6:"sha256";s:44:"E9KsbBz05gvzU42fi4nKrYXBZ++WlRdSe8UZmqqz8pM=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"LVW61+Hsc4l354c5XInGHYGWR8LIUODsfuspqoqL2R4=";s:6:"sha256";s:44:"jqeOu9GUkYzlCRBTQ4bLnuONM5gvc4R1sgg+4YF3PLc=";s:6:"sha256";s:44:"6NOJG8NZ/olvbtwJkrxKqjizOofHQL8dx3u0kL0jFd0=";s:6:"sha256";s:44:"iOZaIcTOnJqkb6f8Z1zIL2mN0Qq8laNHeSe24/siw3c=";s:6:"sha256";s:44:"A4BTliJKrX4Ug/Rb4m/LYn1QavaKLnYTgoz5MLIfxTE=";s:6:"sha256";s:44:"jEXA3Jp7e78S+Kyee1roe6KFTu4y6EzXegNbDOU1EQI=";s:6:"sha256";s:44:"2UFZDNlw33ODJXptIKw9I+nN5+CVtjszv0Khf0paqks=";s:6:"sha256";s:44:"uUe57KsZMVYE5haA+GYqwNn/vDeB5IpsWjnIeycIZnc=";s:6:"sha256";s:44:"DmS0zUaLkybUvbf56re0Qgklo2I9LX48LnNgYL2wuDg=";s:6:"sha256";s:44:"iXs3IfOE9yYx4MJlq8t5w7xDEFq/ZW7agkSn88yuiu8=";s:6:"sha256";}}}s:4:"html";s:63191:"
     <div style="margin-bottom: 0;" class="owl-button-top above-padding below-padding block widget block-new-products grid">
         <div class="page-title-main">
             <strong role="heading" aria-level="2">New Products</strong>
@@ -39,13 +39,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":97,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":97,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"97","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"97","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -77,7 +77,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/97\/","data":{"product":"97","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/97\/","data":{"product":"97","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -117,13 +117,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":96,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":96,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"96","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"96","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -155,7 +155,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/96\/","data":{"product":"96","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/96\/","data":{"product":"96","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -195,13 +195,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":95,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":95,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"95","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"95","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -233,7 +233,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/95\/","data":{"product":"95","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/95\/","data":{"product":"95","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -273,13 +273,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":94,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":94,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"94","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"94","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -311,7 +311,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/94\/","data":{"product":"94","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/94\/","data":{"product":"94","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -351,13 +351,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":93,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":93,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"93","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"93","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -389,7 +389,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/93\/","data":{"product":"93","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/93\/","data":{"product":"93","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -429,13 +429,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":92,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":92,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"92","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"92","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -467,7 +467,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/92\/","data":{"product":"92","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/92\/","data":{"product":"92","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -507,13 +507,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":91,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":91,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"91","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"91","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -545,7 +545,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/91\/","data":{"product":"91","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/91\/","data":{"product":"91","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -585,13 +585,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":90,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":90,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"90","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"90","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -623,7 +623,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/90\/","data":{"product":"90","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/90\/","data":{"product":"90","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -663,13 +663,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":89,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":89,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"89","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"89","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -701,7 +701,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/89\/","data":{"product":"89","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/89\/","data":{"product":"89","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>
@@ -741,13 +741,13 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                     <div class="product actions product-item-actions">
                                                 <div class="actions-secondary" data-role="add-to-links">
                                                                                                             <a href="#"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":88,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":88,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            class="action towishlist" data-action="add-to-wishlist"
                                                            title="Add to Wish List">
                                                             <span>Add to Wish List</span>
                                                         </a>
                                                                                                                                                                                                                         <a href="#" class="action tocompare"
-                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"88","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"88","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                            title="Add to Compare">
                                                             <span>Add to Compare</span>
                                                         </a>
@@ -779,7 +779,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                             <div class="product-item-actions">
                                                                                                     <div class="actions-primary">
                                                                                                                                                                                                                                                     <button class="action tocart primary"
-                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/88\/","data":{"product":"88","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/88\/","data":{"product":"88","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
                                                                         type="button" title="Add to Cart">
                                                                     <span>Add to Cart</span>
                                                                 </button>

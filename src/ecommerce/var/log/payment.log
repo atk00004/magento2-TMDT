@@ -1,0 +1,231 @@
+[2021-05-21 09:58:54] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621591134000',
+    'amount' => '173220000',
+    'orderId' => '000000003',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '9172891738ad072edf5aa29128e8046f925ae42adea21c6ac79994e40a7009ac',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'errorCode' => 4,
+    'message' => 'Amount invalid',
+    'localMessage' => 'Số tiền không hợp lệ',
+  ),
+) [] []
+[2021-05-21 10:03:53] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621591433000',
+    'amount' => '2990000',
+    'orderId' => '000000004',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => 'd7905b7e669fa93ec049d0089e6e81e2cf8475cb709d2548a3d6aea732831713',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'errorCode' => 5,
+    'message' => 'Signature wrong. Check raw signature before signed',
+    'localMessage' => 'Sai thông tin chữ ký',
+    'details' => 
+    array (
+      0 => 
+      array (
+        'field' => 'signature',
+        'description' => 'Raw data before hash: partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621591433000&amount=2990000&orderId=000000004&orderInfo=Default Store View&returnUrl=http://localhost/index.php/momo/payment/return/&notifyUrl=http://localhost/index.php/momo/payment/ipn/&extraData=merchantName=Momo',
+      ),
+    ),
+  ),
+) [] []
+[2021-05-21 10:04:41] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621591481000',
+    'amount' => '4390005',
+    'orderId' => '000000005',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '59b5241020757229d6e15b52712301314a88bbe787a0ed7e20c591fcbcaf501f',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'errorCode' => 5,
+    'message' => 'Signature wrong. Check raw signature before signed',
+    'localMessage' => 'Sai thông tin chữ ký',
+    'details' => 
+    array (
+      0 => 
+      array (
+        'field' => 'signature',
+        'description' => 'Raw data before hash: partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621591481000&amount=4390005&orderId=000000005&orderInfo=Default Store View&returnUrl=http://localhost/index.php/momo/payment/return/&notifyUrl=http://localhost/index.php/momo/payment/ipn/&extraData=merchantName=Momo',
+      ),
+    ),
+  ),
+) [] []
+[2021-05-21 10:06:32] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621591592000',
+    'amount' => '14800000',
+    'orderId' => '000000006',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => 'ef58ef6b469552e3cc9263e22bcc33b69913f0f55c865bb4dc7fc7c6361be64b',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'errorCode' => 5,
+    'message' => 'Signature wrong. Check raw signature before signed',
+    'localMessage' => 'Sai thông tin chữ ký',
+    'details' => 
+    array (
+      0 => 
+      array (
+        'field' => 'signature',
+        'description' => 'Raw data before hash: partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621591592000&amount=14800000&orderId=000000006&orderInfo=Default Store View&returnUrl=http://localhost/index.php/momo/payment/return/&notifyUrl=http://localhost/index.php/momo/payment/ipn/&extraData=merchantName=Momo',
+      ),
+    ),
+  ),
+) [] []
+[2021-05-21 10:12:23] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621591942000',
+    'amount' => '8000000',
+    'orderId' => '000000008',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '423f5aa35eb23263007c3e6739f46910c0abc90b807f5826f34bf83b2d603a41',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'errorCode' => 5,
+    'message' => 'Signature wrong. Check raw signature before signed',
+    'localMessage' => 'Sai thông tin chữ ký',
+    'details' => 
+    array (
+      0 => 
+      array (
+        'field' => 'signature',
+        'description' => 'Raw data before hash: partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621591942000&amount=8000000&orderId=000000008&orderInfo=Default Store View&returnUrl=http://localhost/index.php/momo/payment/return/&notifyUrl=http://localhost/index.php/momo/payment/ipn/&extraData=merchantName=Momo',
+      ),
+    ),
+  ),
+) [] []
+[2021-05-21 10:34:06] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621593246000',
+    'amount' => '32750000',
+    'orderId' => '000000009',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => 'f5cbdacd0b1618b61e2bc2f0481a3f5ce3e251f2c4c7a214761b2f2482a8f29a',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'requestId' => '1621593246000',
+    'errorCode' => 0,
+    'orderId' => '000000009',
+    'message' => 'Success',
+    'localMessage' => 'Thành công',
+    'requestType' => 'captureMoMoWallet',
+    'payUrl' => 'https://test-payment.momo.vn/gw_payment/payment/qr?partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621593246000&amount=32750000&orderId=000000009&signature=c7ccf5d2cd25deb403f3308282cf56079e43145765489a2e5c6b7c1a925db026&requestType=captureMoMoWallet',
+    'signature' => '916aced8921ffe45f519e9017570de76ac417a7dd9c9ee873bc880af25384388',
+  ),
+) [] []
+[2021-05-21 10:35:33] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621593332000',
+    'amount' => '16500000',
+    'orderId' => '000000010',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '12c84163457d5e718ecbdc85036576e2a5ec029fec35f18a7f12c9c1077c5556',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'requestId' => '1621593332000',
+    'errorCode' => 0,
+    'orderId' => '000000010',
+    'message' => 'Success',
+    'localMessage' => 'Thành công',
+    'requestType' => 'captureMoMoWallet',
+    'payUrl' => 'https://test-payment.momo.vn/gw_payment/payment/qr?partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621593332000&amount=16500000&orderId=000000010&signature=746261860a2f00db85b1ab83115bf9303dbe240fceea63b99c41b933ecfc081f&requestType=captureMoMoWallet',
+    'signature' => 'fd9e8996e1f1965e052eadd54966e1d692937b953d5ae8067c9656532187e571',
+  ),
+) [] []
+[2021-05-21 15:18:28] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1621610308000',
+    'amount' => '4990005',
+    'orderId' => '000000011',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '761aea333b9e406b94013056ba7dd571c86867c09dcc64bb6c689458f5d30294',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'requestId' => '1621610308000',
+    'errorCode' => 0,
+    'orderId' => '000000011',
+    'message' => 'Success',
+    'localMessage' => 'Thành công',
+    'requestType' => 'captureMoMoWallet',
+    'payUrl' => 'https://test-payment.momo.vn/gw_payment/payment/qr?partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1621610308000&amount=4990005&orderId=000000011&signature=0ad67ac862e42ee444bdb1a950198fa499a7edc2efdc779e692659de4418f2d6&requestType=captureMoMoWallet',
+    'signature' => '29f51c91fcb6dd892bcaa066daa1a0b3c4b883f398c89f187d1abda11222d7e1',
+  ),
+) [] []

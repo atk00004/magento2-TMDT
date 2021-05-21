@@ -1181,6 +1181,17 @@ var config = {
 require.config(config);
 })();
 (function() {
+var config = {
+    map: {
+        '*': {
+            "slick": 'Sparsh_Banner/js/slick',
+        }
+    }
+};
+
+require.config(config);
+})();
+(function() {
 /**
  * @copyright  Vertex. All rights reserved.  https://www.vertexinc.com/
  * @author     Mediotype                     https://www.mediotype.com/

@@ -484,6 +484,7 @@ return array(
     'Codeception\\Extension\\' => array($vendorDir . '/codeception/codeception/ext'),
     'Codeception\\' => array($vendorDir . '/codeception/codeception/src/Codeception', $vendorDir . '/codeception/stub/src'),
     'Braintree\\' => array($vendorDir . '/braintree/braintree_php/lib/Braintree'),
+    'Boolfly\\ZaloPay\\' => array($vendorDir . '/boolfly/module-zalopay'),
     'Boolfly\\MomoWallet\\' => array($vendorDir . '/boolfly/module-momo-wallet'),
     'Base32\\' => array($vendorDir . '/christian-riesen/base32/src'),
     'BaconQrCode\\' => array($vendorDir . '/bacon/bacon-qr-code/src'),

@@ -490,6 +490,7 @@ class ComposerStaticInit938c431900c95a0701382623c3e5282b
         '826c7b85a9f366d8dd43c93a8b88c6e6' => __DIR__ . '/..' . '/boolfly/module-momo-wallet/registration.php',
         '43a898c2b52882ecca1f7b0558d3af2c' => __DIR__ . '/..' . '/magento/composer-root-update-plugin/registration.php',
         'eda65932675b68b5aee4503e0762d64d' => __DIR__ . '/..' . '/magento/magento2-functional-testing-framework/src/Magento/FunctionalTestingFramework/_bootstrap.php',
+        '4affb4cb26b9c49409acf529ff5fb9d4' => __DIR__ . '/..' . '/boolfly/module-zalopay/registration.php',
         'b4cf39431a4b949eea8aa69ebb3d39da' => __DIR__ . '/../..' . '/app/etc/NonComposerComponentRegistration.php',
     );
 
@@ -1040,6 +1041,7 @@ class ComposerStaticInit938c431900c95a0701382623c3e5282b
         'B' => 
         array (
             'Braintree\\' => 10,
+            'Boolfly\\ZaloPay\\' => 16,
             'Boolfly\\MomoWallet\\' => 19,
             'Base32\\' => 7,
             'BaconQrCode\\' => 12,
@@ -2975,6 +2977,10 @@ class ComposerStaticInit938c431900c95a0701382623c3e5282b
         'Braintree\\' => 
         array (
             0 => __DIR__ . '/..' . '/braintree/braintree_php/lib/Braintree',
+        ),
+        'Boolfly\\ZaloPay\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/boolfly/module-zalopay',
         ),
         'Boolfly\\MomoWallet\\' => 
         array (

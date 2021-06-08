@@ -489,5 +489,6 @@ return array(
     '826c7b85a9f366d8dd43c93a8b88c6e6' => $vendorDir . '/boolfly/module-momo-wallet/registration.php',
     '43a898c2b52882ecca1f7b0558d3af2c' => $vendorDir . '/magento/composer-root-update-plugin/registration.php',
     'eda65932675b68b5aee4503e0762d64d' => $vendorDir . '/magento/magento2-functional-testing-framework/src/Magento/FunctionalTestingFramework/_bootstrap.php',
+    '4affb4cb26b9c49409acf529ff5fb9d4' => $vendorDir . '/boolfly/module-zalopay/registration.php',
     'b4cf39431a4b949eea8aa69ebb3d39da' => $baseDir . '/app/etc/NonComposerComponentRegistration.php',
 );

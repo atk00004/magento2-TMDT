@@ -153,6 +153,15 @@
       ),
       'reference' => 'd199de8849bb436c1441120dd9c714b9bfc2ea3b',
     ),
+    'boolfly/module-zalopay' => 
+    array (
+      'pretty_version' => 'v1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b688ec5555f4a22f3d12b6fb17d43e4a2d4a2886',
+    ),
     'braintree/braintree_php' => 
     array (
       'pretty_version' => '5.2.0',

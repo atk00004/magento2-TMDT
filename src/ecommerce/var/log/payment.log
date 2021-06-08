@@ -229,3 +229,95 @@
     'signature' => '29f51c91fcb6dd892bcaa066daa1a0b3c4b883f398c89f187d1abda11222d7e1',
   ),
 ) [] []
+[2021-05-21 16:21:19] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => NULL,
+    'apptime' => 1621614079000,
+    'apptransid' => '210521_000000012',
+    'appuser' => NULL,
+    'item' => '[{"itemid":"LG XBOOM ON5","itemname":"LG XBOOM ON5","itemprice":4990000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 4990005,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => 'e0f864938cfdcc98586e67aa2ad6682fa113d946f5e4a6d73b1c7a5423857a8f',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -2,
+    'returnmessage' => '',
+  ),
+) [] []
+[2021-05-21 16:28:57] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '554',
+    'apptime' => 1621614537000,
+    'apptransid' => '210521_000000013',
+    'appuser' => NULL,
+    'item' => '[{"itemid":"LG XBOOM ON5","itemname":"LG XBOOM ON5","itemprice":4990000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 4990005,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => '072faf7d3a0afd8e24473afc08eb735008c8b9872a63cc97609582791cb86e93',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -53,
+    'returnmessage' => '',
+  ),
+) [] []
+[2021-05-21 16:40:20] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '554',
+    'apptime' => 1621615220000,
+    'apptransid' => '210521_000000014',
+    'appuser' => NULL,
+    'item' => '[{"itemid":"EXCITER 155 VVA PHI\\u00caN B\\u1ea2N GP","itemname":"EXCITER 155 VVA PHI\\u00caN B\\u1ea2N GP","itemprice":50000000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 50000000,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => '9686e47ec252b7ecc27a3660cf0e2e40eb19a666cd80e7f7635c124b6e8a342c',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -53,
+    'returnmessage' => '',
+  ),
+) [] []
+[2021-05-21 16:43:21] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1621615401000,
+    'apptransid' => '210521_000000015',
+    'appuser' => 'hung',
+    'item' => '[{"itemid":"Honda Dream","itemname":"Honda Dream","itemprice":32000000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 32000000,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => 'fb85364bbc25ff5467c475fd28247494289b8df6f8f1c9cd0c2d023357fc13e9',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '210521000003591zZ9t3zx',
+    'orderurl' => 'https://sbgateway.zalopay.vn/openinapp?order=eyJ6cHRyYW5zdG9rZW4iOiIyMTA1MjEwMDAwMDM1OTF6Wjl0M3p4IiwiYXBwaWQiOjU1M30',
+    'returncode' => 1,
+    'returnmessage' => '',
+  ),
+) [] []

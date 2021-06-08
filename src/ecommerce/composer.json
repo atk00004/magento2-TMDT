@@ -13,6 +13,7 @@
     "version": "2.4.2",
     "require": {
         "boolfly/module-momo-wallet": "^1.0",
+        "boolfly/module-zalopay": "^1.0",
         "magento/composer-root-update-plugin": "~1.1",
         "magento/product-community-edition": "2.4.2"
     },

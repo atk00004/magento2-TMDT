@@ -321,3 +321,131 @@
     'returnmessage' => '',
   ),
 ) [] []
+[2021-06-08 10:24:05] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1623147835000,
+    'apptransid' => '210608_000000016',
+    'appuser' => 'hung',
+    'item' => '[{"itemid":"Backup charging Xiaomi gen 3 20.000 mAh","itemname":"Backup charging Xiaomi gen 3 20.000 mAh","itemprice":449000,"itemquantity":"1.0000"},{"itemid":"Laptop ASUS Vivobook Flip TM420IA-EC031T","itemname":"Laptop ASUS Vivobook Flip TM420IA-EC031T","itemprice":17900000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 18349010,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => 'c35619b1b315eafa6b96cf436c36bca7a731e7a5403ca970535e4913b2f1976c',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+) [] []
+[2021-06-08 10:24:41] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1623147871000,
+    'apptransid' => '210608_000000017',
+    'appuser' => 'hung',
+    'item' => '[{"itemid":"Royal Crown 5308 Jewelry Rose Gold","itemname":"Royal Crown 5308 Jewelry Rose Gold","itemprice":3300000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 3300000,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => '72d0b0a705e2d0f70d82affc2719fe9c82a85b3d2620b4321f2b09f855a0dbf8',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+) [] []
+[2021-06-08 10:25:18] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1623147908000',
+    'amount' => '1000000',
+    'orderId' => '000000018',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => 'e2cf5d7ac9e0704882b6ebadbc066108fd981acbcad8a62499ecdb77db5c42b3',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+) [] []
+[2021-06-08 10:29:22] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1623148162000,
+    'apptransid' => '210608_000000019',
+    'appuser' => 'hung',
+    'item' => '[{"itemid":"Headphone Bluetooth Philips Hi-Res Audio","itemname":"Headphone Bluetooth Philips Hi-Res Audio","itemprice":2590000,"itemquantity":"1.0000"},{"itemid":"Men&#039;s suit","itemname":"Men&#039;s suit","itemprice":1000000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 3590000,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => '436e2850f86da80a0194d4060fd34ed715a8f4cb858db0ceed21c2a60d25b037',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -53,
+    'returnmessage' => '',
+  ),
+) [] []
+[2021-06-08 10:29:46] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1623148186000',
+    'amount' => '20000000',
+    'orderId' => '000000020',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '828d0f3c9f681d120811338daa221e375e95a99a503a124b7cd01563ef0b0f6b',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'requestId' => '1623148186000',
+    'errorCode' => 0,
+    'orderId' => '000000020',
+    'message' => 'Success',
+    'localMessage' => 'Thành công',
+    'requestType' => 'captureMoMoWallet',
+    'payUrl' => 'https://test-payment.momo.vn/gw_payment/payment/qr?partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1623148186000&amount=20000000&orderId=000000020&signature=df01ac0cf4279fef78dbb63a8055811bf4e61ec9bc923abb31d22273c8673e6b&requestType=captureMoMoWallet',
+    'signature' => 'db8d627992d646fdf1725a9a493d398e9acac38bda6ca5b14e4068f412f93aae',
+  ),
+) [] []
+[2021-06-10 11:48:51] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1623325730000',
+    'amount' => '50000000',
+    'orderId' => '000000021',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/index.php/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/index.php/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo',
+    'signature' => '1a0d34590122eb9efc2e59f8733e4c449f61d8acee63eb09fd67685793e1e585',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'requestId' => '1623325730000',
+    'errorCode' => 0,
+    'orderId' => '000000021',
+    'message' => 'Success',
+    'localMessage' => 'Thành công',
+    'requestType' => 'captureMoMoWallet',
+    'payUrl' => 'https://test-payment.momo.vn/gw_payment/payment/qr?partnerCode=MOMOOBIY20210521&accessKey=Ha9b5WVUozUswv8Q&requestId=1623325730000&amount=50000000&orderId=000000021&signature=8b8f04ca5b0490f47cee04e679f3cafef6b2c9a3dca37c6be173efa16e834c73&requestType=captureMoMoWallet',
+    'signature' => 'ba14dc2fc3eda23d915774bd42a0a144d1c473f7a87d3e1b8d87364286a219ae',
+  ),
+) [] []
